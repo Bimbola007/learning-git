@@ -5,3 +5,6 @@
 
 watching git tutorial
 
+go to your python module and type print('hello world')
+
+
